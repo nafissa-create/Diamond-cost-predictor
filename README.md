@@ -22,7 +22,7 @@ The dataset used contains diamond attributes such as:
 ## Methodology
 - Data cleaning and preprocessing using pandas  
 - Exploratory data analysis, including summary statistics  
-- Predictive modeling using a RandomForestRegressor  
+- Predictive modeling using LinearRegression 
 - Integration of a currency conversion feature  
 - Deployment of the model using a Streamlit web interface  
 
@@ -41,7 +41,7 @@ The application allows users to:
 ## How to Run
 
 ### Option 1: Use the Live Application
-🔗 (add live Streamlit application link)
+https://blank-app-1-ijkmhpg5yrrz4rewrgan8h.streamlit.app/
 
 ### Option 2: Run the Application Locally
 Clone the repository, install the required dependencies, and run the Streamlit application using the following commands in your terminal:
